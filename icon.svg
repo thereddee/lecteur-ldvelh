@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" fill="#111827"/>
+  <!-- Livre ouvert -->
+  <path d="M256 150 C210 118 140 112 84 126 V386 C140 372 210 378 256 410 Z" fill="#1f2937" stroke="#818cf8" stroke-width="14" stroke-linejoin="round"/>
+  <path d="M256 150 C302 118 372 112 428 126 V386 C372 372 302 378 256 410 Z" fill="#1f2937" stroke="#818cf8" stroke-width="14" stroke-linejoin="round"/>
+  <!-- Lignes de texte -->
+  <g stroke="#6b7280" stroke-width="10" stroke-linecap="round">
+    <path d="M122 182 C160 176 196 182 222 196"/>
+    <path d="M122 230 C160 224 196 230 222 244"/>
+    <path d="M122 278 C160 272 196 278 222 292"/>
+  </g>
+  <!-- Dé -->
+  <g transform="rotate(8 342 258)">
+    <rect x="290" y="206" width="104" height="104" rx="18" fill="#fbbf24"/>
+    <g fill="#111827">
+      <circle cx="316" cy="232" r="10"/>
+      <circle cx="368" cy="232" r="10"/>
+      <circle cx="342" cy="258" r="10"/>
+      <circle cx="316" cy="284" r="10"/>
+      <circle cx="368" cy="284" r="10"/>
+    </g>
+  </g>
+</svg>
